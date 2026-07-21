@@ -1,0 +1,37 @@
+month,campaign,platform,spend_inr,impressions,clicks,conversions,revenue_inr,cpc,cpa,roas,quality_score
+2024-01,Brand Awareness – Google,Google Ads,8299.07,11420,718,39,94772.77,11.56,212.8,11.42,good
+2024-02,Brand Awareness – Google,Google Ads,7978.26,15016,687,34,92109.28,11.61,234.65,11.545,good
+2024-03,Brand Awareness – Google,Google Ads,8371.24,7133,720,36,82907.21,11.63,232.53,9.904,good
+2024-04,Brand Awareness – Google,Google Ads,7436.06,11311,608,36,97186.51,12.23,206.56,13.07,good
+2024-05,Brand Awareness – Google,Google Ads,7047.66,8724,528,25,60791.56,13.35,281.91,8.626,good
+2024-06,Brand Awareness – Google,Google Ads,7099.02,8740,550,27,69485.45,12.91,262.93,9.788,good
+2024-01,Lead Gen – IT Staffing,Google Ads,14463.06,13141,783,48,113153.64,18.47,301.31,7.824,good
+2024-02,Lead Gen – IT Staffing,Google Ads,15076.84,13293,837,51,124388.19,18.01,295.62,8.25,good
+2024-03,Lead Gen – IT Staffing,Google Ads,13425.73,12994,753,38,88545.87,17.83,353.31,6.595,good
+2024-04,Lead Gen – IT Staffing,Google Ads,14557.39,8208,732,42,107599.22,19.89,346.6,7.391,good
+2024-05,Lead Gen – IT Staffing,Google Ads,14397.06,11120,825,45,110148.5,17.45,319.93,7.651,good
+2024-06,Lead Gen – IT Staffing,Google Ads,14756.5,13963,882,51,116656.02,16.73,289.34,7.905,good
+2024-01,Retargeting – Web Dev,Google Ads,6188.64,5411,580,20,54490.69,10.67,309.43,8.805,average
+2024-02,Retargeting – Web Dev,Google Ads,6232.08,9575,618,21,51643.03,10.08,296.77,8.287,average
+2024-03,Retargeting – Web Dev,Google Ads,5926.93,7118,637,16,40745.25,9.3,370.43,6.875,average
+2024-04,Retargeting – Web Dev,Google Ads,5632.87,5472,557,17,41090.16,10.11,331.35,7.295,average
+2024-05,Retargeting – Web Dev,Google Ads,5428.54,5003,502,15,40908.36,10.81,361.9,7.536,average
+2024-06,Retargeting – Web Dev,Google Ads,6245.19,14710,667,21,54025.42,9.36,297.39,8.651,average
+2024-01,Nagpur Local – Staffing,Meta Ads,8981.76,26898,1214,70,178038.72,7.4,128.31,19.822,good
+2024-02,Nagpur Local – Staffing,Meta Ads,8922.86,17244,1251,69,168331.05,7.13,129.32,18.865,good
+2024-03,Nagpur Local – Staffing,Meta Ads,9855.42,21290,1435,78,207664.2,6.87,126.35,21.071,good
+2024-04,Nagpur Local – Staffing,Meta Ads,8974.07,15188,1106,52,126883.9,8.11,172.58,14.139,good
+2024-05,Nagpur Local – Staffing,Meta Ads,10020.49,17968,1419,67,158157.63,7.06,149.56,15.783,good
+2024-06,Nagpur Local – Staffing,Meta Ads,9730.94,26460,1221,59,160591.77,7.97,164.93,16.503,good
+2024-01,Awareness – Digital Mktg,Meta Ads,6830.34,21909,1314,17,44973.53,5.2,401.78,6.584,poor
+2024-02,Awareness – Digital Mktg,Meta Ads,6763.01,19978,1389,18,42866.32,4.87,375.72,6.338,poor
+2024-03,Awareness – Digital Mktg,Meta Ads,7234.64,11439,1374,17,41637.27,5.27,425.57,5.755,poor
+2024-04,Awareness – Digital Mktg,Meta Ads,7584.93,29386,1389,16,41229.59,5.46,474.06,5.436,poor
+2024-05,Awareness – Digital Mktg,Meta Ads,7637.63,29743,1495,19,49753.66,5.11,401.98,6.514,poor
+2024-06,Awareness – Digital Mktg,Meta Ads,6914.0,33144,1465,18,49344.19,4.72,384.11,7.137,poor
+2024-01,Lead Gen – Payroll Services,Meta Ads,8972.48,17006,1096,36,84428.23,8.19,249.24,9.41,average
+2024-02,Lead Gen – Payroll Services,Meta Ads,8029.4,12008,882,29,70853.43,9.1,276.88,8.824,average
+2024-03,Lead Gen – Payroll Services,Meta Ads,8830.89,11395,1066,28,68396.59,8.28,315.39,7.745,average
+2024-04,Lead Gen – Payroll Services,Meta Ads,8983.89,10573,929,30,71792.71,9.67,299.46,7.991,average
+2024-05,Lead Gen – Payroll Services,Meta Ads,9352.62,15393,949,28,63302.78,9.86,334.02,6.768,average
+2024-06,Lead Gen – Payroll Services,Meta Ads,8686.6,18282,941,25,60954.84,9.23,347.46,7.017,average
